@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Raleway:wght@600&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=MuseoModerno&display=swap);
+.tema__title {
+    font-size: 52px;
+    line-height: 58px;
+    margin: 0 auto 32px;
+    font-family: 'Raleway', sans-serif;
+  }
+  .tema__text{
+    color: #000000;
+    font-size: 16px;
+    line-height: 1.7;
+    max-width: 520px;
+    margin: 0 auto 32px;
+  }
+  .degrad__title{
+    background: linear-gradient(to right, #3d84f0, #460bcf);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  .conteudo a {
+    text-decoration: none;
+    color: #3d84f0;
+  }
+  .button__text{
+    color: #ffffff;
+    font-weight: bold;
+  }
