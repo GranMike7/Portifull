@@ -4,10 +4,12 @@
 }
 
 body {
+  margin: 5px 10px;
+  height: 100%;
+  overflow-x: hidden;
   font-family: 'Montserrat', sans-serif;
 }
-
-.conteudo{
+header{
   text-align: center;
   margin: 150px auto 150px;
 }
